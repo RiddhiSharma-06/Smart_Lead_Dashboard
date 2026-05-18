@@ -87,12 +87,6 @@ JWT_SECRET=your_secret_key
 
 ---
 
-## Screenshots
-
-Add project screenshots here later.
-
----
-
 ## Future Improvements
 
 - Export Leads
